@@ -1,1 +1,2 @@
-mkdir nuevallol
+@echo off
+mkdir guarapo.txt
